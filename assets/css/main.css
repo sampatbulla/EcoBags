@@ -251,7 +251,7 @@ section {
   color: #fff;
   line-height: 0;
 }
-@media screen {max-width: 550px;
+@media screen and (max-width: 600px)  {
   .hidephonenum{
     display: none;
   }
