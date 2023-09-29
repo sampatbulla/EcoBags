@@ -1373,6 +1373,11 @@ section {
   overflow: hidden;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
 }
+.row{
+  display: flex;
+   align-items: center;
+  justify-content: center;
+}
 
 .team .member img {
   border-radius: 10px;
