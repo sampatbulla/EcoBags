@@ -251,7 +251,11 @@ section {
   color: #fff;
   line-height: 0;
 }
-
+@media screen {max-width: 550px;
+  .hidephonenum{
+    display: none;
+  }
+}
 .topbar .contact-info i a,
 .topbar .contact-info i span {
   padding-left: 5px;
